@@ -1,0 +1,12 @@
+{
+  "featureToggles": {
+    "EnableBazaarVoiceRatingsReviews": [
+      "one",
+      "two",
+      "three",
+      "four",
+      "five",
+      "six",
+      "seven"
+    ]
+}
