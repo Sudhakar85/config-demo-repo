@@ -1,12 +1,8 @@
 {
   "featureToggles": {
-    "EnableBazaarVoiceRatingsReviews": [
+    "switch-off": [
       "one",
-      "two",
-      "three",
-      "four",
-      "five",
-      "six",
-      "seven"
+      "two"
     ]
+  }
 }
